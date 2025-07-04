@@ -26,4 +26,5 @@ By comparing different modeling approaches, I aim to assess their performance, i
 - ML models offer faster training and easier interpretability—making them viable for some real-world applications.
 
 > 📄 **Published Work**: [Dry-spell assessment through rainfall downscaling comparing deep-learning algorithms and conventional statistical frameworks in a data scarce region: The case of Northern Ghana](https://meetingorganizer.copernicus.org/EGU21/EGU21-8393.html)
+
 > For the full code, visit the [GitHub repository](https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences)
