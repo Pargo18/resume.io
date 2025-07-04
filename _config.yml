@@ -10,13 +10,13 @@ plugins:
 
 minimal_mistakes_skin: "dark"    # built‑in skins include "dark", "default", "air", "mint", etc. :contentReference[oaicite:0]{index=0}
 # other settings
-baseurl: "/panagiotismavritsakis.github.io"  
+# baseurl: ""  
 url: "https://pargo18.github.io"
 
 nav:
   - title: "Curriculum Vitae"
-    url: "https://pargo18.github.io/panagiotismavritsakis.github.io/cv/"
+    url: "https://pargo18.github.io/resume.github.io/cv/"
   - title: "Projects"
-    url:   "https://pargo18.github.io/panagiotismavritsakis.github.io/projects/"
+    url:   "https://pargo18.github.io/resume.github.io/projects/"
   - title: "Research"
-    url: "https://pargo18.github.io/panagiotismavritsakis.github.io/research/"
+    url: "https://pargo18.github.io/resume.github.io/research/"
