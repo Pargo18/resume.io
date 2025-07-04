@@ -15,7 +15,7 @@ I am Panos, a multidisciplinary professional with a background in Water Manageme
 - 📄 [Resume](/cv.md/) — Experience and background  
 - ⚙️ [Projects](/projects.md/) — A list of my main Data Science projects
 - 📚 [Research](/research.md/) — Publications and academic work
-- 📬 Connect via [email](mailto:panagiotismavritsakis@gmail.com) or on 
+- 📬 Connect via [email](mailto:panagiotis.mavritsakis@logikonsolutions.com) or on 
   <a href="https://github.com/Pargo18">Github</a> and
   <a href="https://www.linkedin.com/in/panagiotismavritsakis?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a>
 
