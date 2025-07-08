@@ -12,5 +12,6 @@ nav_order: 2
 - <a href="{{ site.baseurl }}/projects/malaria-predictive" class="white-link">Developing ML forecasting tools for Malaria prevelance in South Sudan</a>
 - <a href="{{ site.baseurl }}/projects/wind-forecasting" class="white-link">Wind forecasting and power generation algorithms</a>
 - <a href="{{ site.baseurl }}/projects/summaries-email" class="white-link">Automated product summaries generation and email sending</a>
+- <a href="{{ site.baseurl }}/projects/telegram-api-bot" class="white-link">Trading bot with Telegram API integration for automated alerts</a>
 
 ---
